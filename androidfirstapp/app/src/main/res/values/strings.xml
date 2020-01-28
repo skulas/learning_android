@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Android Firrst App</string>
+    <string name="gps_display_title">GPS Display Numbers</string>
+    <string name="start_gps_logging">Start GPS Logging</string>
+    <string name="stop_gps_logging">Stop GPS Logging</string>
+    <string name="permission_granted">Permission Granted</string>
+    <string name="updtes_stopped">Updates stopped</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="alert_msg_gps_disabled">"Your GPS seems to be disabled, do you want to enable it?"</string>
+    <string name="update_time">Updated at : %1$s</string>
+    <string name="tmplt_lat">LATITUDE : %1$f</string>
+    <string name="tmplt_long">LONGITUDE : %1$f</string>
+    <string name="gps_recep_off">GPS Reception is Off</string>
+    <string name="warming_gps">Warming up GPS</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="signed_out">SIGNED OUT</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="auth_failed">Authentication failed</string>
+    <string name="web_client_id" translatable="false">174404296461-uuh4ddm3sjpl168mdgmfjanekhlgrtv7.apps.googleusercontent.com</string>
+    <string name="firebase_status_fmt">Firebase UID: %s</string>
+    <string name="firebase_user_management">Firebase User Management</string>
+    <string name="google_status_fmt">Google User: %s</string>
+</resources>
